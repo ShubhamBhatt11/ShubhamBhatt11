@@ -1,49 +1,18 @@
-# Hi, I'm Shubham Bhatt 👋
+### Hi, I'm Shubham 👋
 
-💻 Full Stack Developer | AngularJS | JavaScript | Laravel | 6+ Years Experience  
-⚙️ Building scalable applications with strong UI + backend architecture  
+**Senior Software Engineer — Backend (Node.js)** with 6+ years building scalable, production-grade systems.
 
----
+🛠️ Currently owning an end-to-end vertical of a 50+ microservice super-app — building independently deployable services in **Node.js / Express / MongoDB**, communicating over **gRPC**, kept in sync with **Apache Kafka** event streams, and real-time features over **WebSockets**.
 
-## 🚀 About Me
-Full Stack Developer with 6+ years of experience building production-grade applications.
+🤖 Going deeper into **AI/LLM engineering** — built a hands-on **RAG** assistant on **Amazon Bedrock** (Knowledge Base, vector embeddings, function calling, guardrails).
 
-I have strong experience in both frontend and backend development, including 4+ years of building responsive and user-friendly interfaces using AngularJS, JavaScript, Bootstrap, and modern web technologies.
+**Tech I work with**
+- **Backend:** Node.js · Express.js · REST APIs · Microservices · Distributed Systems
+- **Messaging/Real-time:** gRPC · Apache Kafka · WebSockets
+- **Databases:** MongoDB · MySQL · SQL Server
+- **Cloud/AI:** AWS · Amazon Bedrock (RAG)
+- **Also:** PHP/Laravel (earlier career), JavaScript, Git
 
----
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/shubham-bhatt-74b524125) · bhatt.shubham91@gmail.com
 
-## 🛠️ Tech Stack
-- Frontend: JavaScript, AngularJS, HTML5, CSS3, Bootstrap  
-- Backend: PHP, Laravel  
-- Database: MySQL, SQL Server  
-- Tools: Git, Postman  
-
----
-
-## 🔥 Featured Work
-- 🛒 Ecommerce Platform (UI-focused project with modern architecture)
-- 📌 Online Listing Application (Frontend + API integration)
-- 👨‍💼 HRMS System (Employee management, attendance tracking, workflow automation)
-- 🚚 Logistics Platform (Case Study - BigShip)
-- 🎓 Education & Business Applications (Case Study – 20,000+ users)
-
----
-
-## ⚡ Key Highlights
-- Built responsive UIs used by 20,000+ users  
-- Improved user adoption by 35% through UI enhancements  
-- Developed scalable backend systems and REST APIs  
-- Experience with real-world production systems and integrations  
-
----
-
-## 🎯 Current Focus
-- Building modern UI-driven applications  
-- Improving frontend performance and user experience  
-- Exploring React and modern frontend architecture  
-
----
-
-## 📫 Contact Me
-📧 bhatt.shubham91@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/shubham-bhatt-74b524125  
+*Open to Senior Backend / Full Stack Engineer roles — remote-first & open to relocation.*
