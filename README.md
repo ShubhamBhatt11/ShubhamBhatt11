@@ -2,7 +2,7 @@
 
 **Senior Software Engineer — Backend (Node.js)** with 6+ years building scalable, production-grade systems.
 
-🛠️ Currently owning end-to-end verticals of a 50+ microservice super-app — the **Vehicle Marketplace** and **Healthcare Lab Booking** — building independently deployable services in **Node.js / Express / MongoDB**, communicating over **gRPC**, kept in sync with **Apache Kafka** event streams, and real-time features over **WebSockets**. Shipped as **Docker** containers on **AWS**, debugged in production with **CloudWatch**.
+🛠️ Currently owning end-to-end verticals of a 50+ microservice super-app — the **Vehicle Marketplace** and **Healthcare Lab Booking** — plus **95+ merged PRs across 15 services** platform-wide. Building independently deployable services in **Node.js / Express / MongoDB**, communicating over **gRPC**, kept in sync with **Apache Kafka** event streams, and real-time features over **WebSockets**. Shipped as **Docker** containers on **AWS**, debugged in production with **CloudWatch**.
 
 🤖 Going deeper into **AI/LLM engineering** — built a hands-on **RAG** assistant on **Amazon Bedrock** (Knowledge Base, vector embeddings, function calling, guardrails).
 
