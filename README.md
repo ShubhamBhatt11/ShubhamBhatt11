@@ -14,6 +14,6 @@
 - **APIs & Testing:** Swagger/OpenAPI · JWT · Jest · PHPUnit
 - **Also:** PHP/Laravel (earlier career), JavaScript, Git
 
-📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/shubham-bhatt-74b524125) · bhatt.shubham91@gmail.com
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/shubham-bhatt-dev) · bhatt.shubham91@gmail.com
 
 *Open to Senior Backend / Full Stack Engineer roles — remote-first & open to relocation.*
